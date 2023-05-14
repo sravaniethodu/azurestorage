@@ -4,9 +4,6 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AzureBlobStorage.WebApi.Controllers
 {
-
-
-    
     [Route("api/[controller]")]
     [ApiController]
     public class StorageController : ControllerBase
